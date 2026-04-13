@@ -5,10 +5,7 @@ This repository contains practical implementations of LangChain concepts includi
 ---
 
 ## 📌 Blog Link
-PASTE_YOUR_MEDIUM_LINK_HERE
-
-## 🔗 LinkedIn Post
-PASTE_YOUR_LINKEDIN_LINK_HERE
+https://medium.com/@meghanadantala9/deep-technical-blog-on-langchain-4bfeb95d3957
 
 ---
 
