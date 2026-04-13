@@ -1,0 +1,8 @@
+from langchain.prompts import PromptTemplate
+
+template = PromptTemplate(
+    input_variables=["topic"],
+    template="Explain {topic} in simple terms"
+)
+
+print(template.format(topic="Machine Learning"))
